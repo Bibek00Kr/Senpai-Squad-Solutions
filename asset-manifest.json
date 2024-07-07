@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Bibek00Kr/Senpai-Squad-Solutions/static/css/main.3f6383e0.css",
-    "main.js": "/Bibek00Kr/Senpai-Squad-Solutions/static/js/main.599d37a4.js",
+    "main.css": "/Bibek00Kr/Senpai-Squad-Solutions/static/css/main.a39097f6.css",
+    "main.js": "/Bibek00Kr/Senpai-Squad-Solutions/static/js/main.67d7224a.js",
     "static/js/453.9e28945f.chunk.js": "/Bibek00Kr/Senpai-Squad-Solutions/static/js/453.9e28945f.chunk.js",
     "static/media/img1.png": "/Bibek00Kr/Senpai-Squad-Solutions/static/media/img1.50aa435766926904df1a.png",
-    "static/media/bg-testimonial.jpg": "/Bibek00Kr/Senpai-Squad-Solutions/static/media/bg-testimonial.c9da49849cd1f1ae0e22.jpg",
     "static/media/img-hero1.jpg": "/Bibek00Kr/Senpai-Squad-Solutions/static/media/img-hero1.9988a517016e0f70e4a6.jpg",
     "static/media/img-hero3.jpg": "/Bibek00Kr/Senpai-Squad-Solutions/static/media/img-hero3.8eea5be2628749367e2a.jpg",
     "static/media/img-hero2.jpg": "/Bibek00Kr/Senpai-Squad-Solutions/static/media/img-hero2.07c8bf37d92857a2104e.jpg",
+    "static/media/bg-testimonial.jpg": "/Bibek00Kr/Senpai-Squad-Solutions/static/media/bg-testimonial.39199d7a081e1bccde70.jpg",
     "static/media/team4.png": "/Bibek00Kr/Senpai-Squad-Solutions/static/media/team4.9a4f8b487a5bdbda24a9.png",
     "static/media/team7.png": "/Bibek00Kr/Senpai-Squad-Solutions/static/media/team7.f5cdb36667779d8a203b.png",
     "static/media/team2.png": "/Bibek00Kr/Senpai-Squad-Solutions/static/media/team2.facd7c0fb66429ccd20d.png",
@@ -17,12 +17,12 @@
     "static/media/team5.png": "/Bibek00Kr/Senpai-Squad-Solutions/static/media/team5.dfb74c543325213dee9f.png",
     "static/media/team8.png": "/Bibek00Kr/Senpai-Squad-Solutions/static/media/team8.ce10b5d2a387ded5cb0c.png",
     "index.html": "/Bibek00Kr/Senpai-Squad-Solutions/index.html",
-    "main.3f6383e0.css.map": "/Bibek00Kr/Senpai-Squad-Solutions/static/css/main.3f6383e0.css.map",
-    "main.599d37a4.js.map": "/Bibek00Kr/Senpai-Squad-Solutions/static/js/main.599d37a4.js.map",
+    "main.a39097f6.css.map": "/Bibek00Kr/Senpai-Squad-Solutions/static/css/main.a39097f6.css.map",
+    "main.67d7224a.js.map": "/Bibek00Kr/Senpai-Squad-Solutions/static/js/main.67d7224a.js.map",
     "453.9e28945f.chunk.js.map": "/Bibek00Kr/Senpai-Squad-Solutions/static/js/453.9e28945f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3f6383e0.css",
-    "static/js/main.599d37a4.js"
+    "static/css/main.a39097f6.css",
+    "static/js/main.67d7224a.js"
   ]
 }
